@@ -53,4 +53,4 @@ websocket-nlw/
 ```
 
 
-**Desenvolvido por [William Faria](https://github.com/wmfarinha)**
+**Desenvolvido por [William Faria](https://github.com/wmfariadev)**
